@@ -1,5 +1,9 @@
-Es importante que un desarrollador sepa usar la terminal para navegar y organizar archivos por varias razones. La primera es que es mucho más rápida y automatizada; por medio de los comandos todo se puede crear más rápido y la productividad aumenta. Por ejemplo, hoy usamos el comando mkdir semana-2 para crear una carpeta al instante y el comando cd para movernos entre el Escritorio y OneDrive sin perder tiempo usando el ratón.
-
-Además, la terminal hace que no se oculte nada. Con un comando como ls se puede ver absolutamente todo lo que existe en el proyecto y el proceso que uno lleva. Esto nos sirvió hoy para descubrir que los archivos de la semana pasada estaban sueltos y así pudimos ordenarlos mejor.
-
-Por otra parte, están los servidores y la nube, puesto que la información se puede controlar y mover a través de comandos cuando se sube a internet. Finalmente, la terminal se integra perfectamente con lo que estamos usando, Git y GitHub, puesto que por medio de comandos guardamos los cambios de nuestros archivos y después los subimos a internet. Esto hace que uno trabaje más rápido, lleve un mejor control y de esa manera pueda visualizar todo en el repositorio de manera más sencilla.
+Es importante que un desarrollador sepa usar la terminal para navegar y organizar archivos por varias razones.
+La primera es que es mucho más rápida y automatizada; por medio de los comandos todo se puede crear más rápido y la productividad aumenta.
+Por ejemplo, usamos el comando mkdir para crear carpetas al instante y cd para movernos entre carpetas sin perder tiempo usando el ratón.
+Además, la terminal hace que no se oculte nada, con un comando como ls se puede ver absolutamente todo lo que existe en el proyecto.
+Esto nos sirvió para descubrir que los archivos de la semana pasada estaban sueltos y así pudimos ordenarlos mejor.
+Por otra parte, la información se puede controlar y mover a través de comandos cuando se sube a internet.
+Finalmente, la terminal se integra perfectamente con Git y GitHub.
+Por medio de comandos guardamos los cambios de nuestros archivos y después los subimos a internet.
+Esto hace que uno trabaje más rápido, lleve un mejor control y pueda visualizar todo en el repositorio de manera más sencilla.

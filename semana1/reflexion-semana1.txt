@@ -1,3 +1,9 @@
-La relación que se encuentra entre el uso responsable de la información en internet, la participación ciudadana y la organización del trabajo técnico con herramientas como Git es que forman una cadena o un círculo cíclico en el que todo está relacionado. En primer lugar, al buscar información en internet es necesario asegurarse de que sea verídica, confiable y que pueda respaldarse con fuentes seguras. Gracias a esto, se puede desarrollar una participación ciudadana responsable y respetuosa, basada en información correcta.
-
-A partir de esta participación informada, se llega a la organización del trabajo técnico mediante herramientas como Git, las cuales permiten gestionar la información de manera ordenada. Además, estas herramientas funcionan como procesos y algoritmos que facilitan el seguimiento y la explicación de los cambios realizados en un proyecto. Esto hace que la información sea más clara y fácil de comprender para las personas, favoreciendo una participación más abierta, respetuosa y colaborativa. De esta manera, se genera un ciclo en el que la información confiable promueve una mejor participación ciudadana, y esta, a su vez, contribuye a una organización técnica más eficiente y accesible para todos.
+La relación entre el uso responsable de la información en internet, la participación ciudadana y herramientas como Git forman una cadena cíclica en la que todo está relacionado.
+En primer lugar, al buscar información en internet es necesario asegurarse de que sea verídica, confiable y respaldada con fuentes seguras.
+Gracias a esto, se puede desarrollar una participación ciudadana responsable y respetuosa, basada en información correcta.
+A partir de esta participación informada, se llega a la organización del trabajo técnico mediante herramientas como Git.
+Estas herramientas permiten gestionar la información de manera ordenada y facilitan el seguimiento de los cambios realizados en un proyecto.
+Esto hace que la información sea más clara y fácil de comprender para las personas.
+Favoreciendo así una participación más abierta, respetuosa y colaborativa entre todos los involucrados.
+De esta manera se genera un ciclo en el que la información confiable promueve una mejor participación ciudadana.
+Y esta, a su vez, contribuye a una organización técnica más eficiente y accesible para todos.
