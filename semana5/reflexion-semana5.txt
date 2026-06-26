@@ -1,0 +1,8 @@
+Las APIs permiten que las comunidades compartan información de manera organizada y estructurada entre diferentes aplicaciones.
+Facilitan que los ciudadanos envíen reportes, alertas y datos importantes de forma rápida y sin confusiones.
+La información queda registrada y puede ser consultada por autoridades o líderes comunitarios cuando sea necesario.
+Además permiten que varias personas accedan a la misma información al mismo tiempo desde cualquier dispositivo.
+Un ejemplo claro es el caso de los desastres naturales como inundaciones, deslizamientos o terremotos.
+Una comunidad podría crear una API para recibir alertas en tiempo real indicando la ubicación y el tipo de desastre.
+Esta información llegaría de forma ordenada a los equipos de emergencia para actuar rápidamente y salvar vidas.
+Con tecnologías como Node.js y Express cualquier comunidad puede construir su propio sistema sin depender de grandes empresas.
