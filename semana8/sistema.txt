@@ -1,0 +1,10 @@
+uname -a:
+Muestra información del sistema operativo. En mi caso mostró que uso Windows 10 
+con Git Bash (MINGW64), el nombre de mi computador es LAPTOP-HKDT5BVM y la 
+arquitectura es x86_64. Es útil para saber qué sistema está corriendo el servidor 
+y si necesita actualizaciones de seguridad.
+
+whoami:
+Muestra el nombre del usuario actual. En mi caso mostró "karol". Es útil para 
+saber con qué permisos se está trabajando en el servidor y evitar hacer cambios 
+con un usuario equivocado.
