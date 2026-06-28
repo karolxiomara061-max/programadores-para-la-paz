@@ -1,0 +1,3 @@
+Al consultar GET http://localhost:3000/reportes el servidor responde con una lista vacía [].
+Esto es porque todavía no se han registrado reportes.
+Cuando se agreguen reportes con POST aparecerán aquí en formato JSON.

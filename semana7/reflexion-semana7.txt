@@ -1,0 +1,10 @@
+Que las comunidades puedan registrar y consultar reportes en una plataforma tecnológica es fundamental para fortalecer la participación ciudadana.
+Cuando existe un sistema organizado para reportar incidencias, la información no se pierde y puede ser atendida de manera oportuna.
+Esto favorece la democratización porque cualquier ciudadano puede reportar un problema sin importar su ubicación o nivel educativo.
+Además permite que las autoridades o líderes comunitarios tengan una visión clara de los problemas que afectan a la comunidad.
+La consulta de reportes mediante GET facilita el seguimiento de las incidencias y permite verificar si fueron atendidas.
+El registro estructurado de información contribuye a la construcción del tejido social porque genera espacios de participación colectiva.
+Cuando los ciudadanos ven que sus reportes son registrados y consultables se fortalece la confianza en las instituciones.
+Una plataforma de este tipo también permite identificar patrones de problemas recurrentes para tomar decisiones más informadas.
+La libertad de expresión se ejerce de manera organizada cuando existen canales tecnológicos que garantizan que la voz ciudadana sea escuchada.
+En conclusión registrar y consultar reportes de forma digital es un paso importante hacia comunidades más organizadas, transparentes y participativas.
