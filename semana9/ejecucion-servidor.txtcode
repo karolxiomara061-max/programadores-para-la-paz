@@ -1,0 +1,3 @@
+ Cuando ejecuto node server.js aparece en la terminal el mensaje: "Servidor ejecutándose en puerto 3000".
+Al visitar http://localhost:3000 el servidor responde con el mensaje: "Servidor activo y funcionando".
+Al visitar http://localhost:3000/estado el servidor responde con un JSON que muestra el estado y el nombre del servicio.

@@ -1,0 +1,10 @@
+Cuando una plataforma comunitaria no funciona de manera estable genera incertidumbre y desconfianza en quienes dependen de ella.
+Si el servidor falla en un momento crítico como cuando alguien necesita reportar una emergencia, la plataforma pierde su propósito.
+La inestabilidad hace que la herramienta no sea eficaz y que las personas dejen de usarla por miedo a que falle cuando más la necesitan.
+Además los datos que se manejan en estas plataformas son sensibles porque pertenecen a personas reales de la comunidad.
+Si esa información se pierde o es vulnerada por una falla del servidor se rompe la confianza que la comunidad depositó en la plataforma.
+Por eso es fundamental que el servidor funcione de manera continua y que tenga medidas de seguridad que protejan los datos.
+Un servidor estable también permite que más personas se animen a participar porque saben que su información está a salvo.
+La estabilidad no es solo un asunto técnico sino una responsabilidad con la comunidad que confía en esa herramienta.
+Mantener una plataforma segura y funcional es garantizar que la participación ciudadana no se interrumpa por problemas tecnológicos.
+En conclusión un servidor estable y seguro es la base sobre la que se construye la confianza de cualquier comunidad digital.

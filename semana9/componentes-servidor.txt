@@ -1,0 +1,19 @@
+Sistema operativo:
+Es el software base que administra el hardware del servidor.
+Sin él no es posible ejecutar ningún programa o aplicación.
+
+Node.js:
+Es el entorno que permite ejecutar JavaScript en el servidor.
+Gracias a él podemos correr nuestro archivo server.js.
+
+Aplicación server.js:
+Es el archivo que contiene el código de nuestra API.
+Define las rutas y cómo responde el servidor a cada solicitud.
+
+Puerto:
+Es la puerta de entrada al servidor, en nuestro caso el puerto 3000.
+Permite que el navegador sepa exactamente dónde conectarse.
+
+Logs:
+Son registros que guardan la actividad del servidor.
+Sirven para detectar errores y monitorear el funcionamiento del sistema.
